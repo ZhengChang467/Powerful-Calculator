@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1494140815 source:c:\ังส๕\c++primer\computer_test\20170506\main.cpp
+	<iostream>
+	<string>
+	<stack>
+	<algorithm>
+
